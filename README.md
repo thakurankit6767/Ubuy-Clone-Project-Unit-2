@@ -1,49 +1,50 @@
-# Ubuy-Clone
+# ubuy-project
+Project: make a clone of https://www.ubuy.co.in/ site
 
-https://ubuy-clone-project-unit-2.vercel.app/
+*This is an E-Commerce website which speciaizes in selling All kinds of projects like Electronics, Home goods, books, etc. *
 
-### Bewakoof_Clone
+## Technology Stack Used
+- JavaScript
+- CSS
+- HTML
 
-Bewakoof.com is an E-Commerce website, where  could buy a varities of electronics of different category. This is the Clone of ubuy.com which was given by Masai school during the unit-2 curriculm. We are 5 members in the project team Bhavesh, Ankit, Prachi, Suresh and Santosh. We hae taken the challenge to complete the project in 4days and successfully completed in in a deadline time..
+#ScreenShots
+- Home page
+![image](https://user-images.githubusercontent.com/95856642/158948227-02fedefd-f12e-48cd-9596-d7f498eb0f63.png)
 
-## Built with
-HTML
-CSS
-JAVASCRIPT
-LocalStorage
+- Signin page
+![image](https://user-images.githubusercontent.com/95856642/158948429-b3d65129-1dba-4fad-8d8c-32b7bbab1d7e.png)
 
-## Libraries used
-Font awesome
-Google fonts
-Google Icons
-Flaticon
+- Product page
+ ![image](https://user-images.githubusercontent.com/95856642/158948337-7c10c9f7-97df-4df7-a57d-3d9e8bfd93d7.png)
+ 
+- Single product page
+![image](https://user-images.githubusercontent.com/95856642/158948555-19af9c98-187b-4ae9-9833-088f37cb5e39.png)
 
-## Functionalities Added
-Responsiveness in landing page
-Implemented search functionalities in landing page
-Added Signup and Login functionalities/validations
-Sorting functionality according to Price
-Filter product according to our category
-Functionality to add a product to wishlist and cart
-Functionality to make a payment
-Added booking success display functionality
-Implemented all the above said functionalities using LocalStorage, and enhanced dynamic flow of all data
+- Cart page
+![image](https://user-images.githubusercontent.com/95856642/158948597-13419ac1-ed48-4ad0-8d6c-5b4fa8a9c7ff.png)
+  
+- Payment page
+![image](https://user-images.githubusercontent.com/95856642/158948688-8d092fb9-8c45-477c-8c05-05b0ac32897c.png)
+  
+  ### End Notes 📑
+In this project we were tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence, Because this was over first project where we only learn HTML, CSS and basic JavaScript. If we have more time we can able to add more products.
 
-## Team Members
-<ul>
-  <li>Bhavesh</li>
-  <li>Ankit</li>
-  <li>Prachi</li>
-  <li>Suresh</li>
-  <li>Santosh</li>
-</ul>
+### Limitations:
+All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
+(Recomended Resolution: 1366 x 768 )
+  
+  ## Team Members and Contributors 😇 :
 
-## Related Links
-
-
-
-![image](https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png)
-
-
-
-Here you can see the project: https://ubuy-clone-project-unit-2.vercel.app/
+- 👤 prachi Singh Sherawat
+  Github: https://github.com/prachisinghsherawat
+  
+- 👤 SureshYarram
+  Github: https://github.com/SureshYarram
+  
+- 👤 Santosh
+  Github: https://github.com/Santosh844
+  
+- 👤 Bhavesh
+  Github: https://github.com/BhaveshSuthar00
+  
